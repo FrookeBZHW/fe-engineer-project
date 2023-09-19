@@ -1,0 +1,17 @@
+{
+  "name": "markdown-lint",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "homepage": "",
+  "main": "index.json",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/markdown-lint.test.js"
+  }
+}

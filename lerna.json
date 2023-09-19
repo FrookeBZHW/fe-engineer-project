@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "npmClient":"pnpm",
+  "command":{
+    "publish":{
+      "npmClient":"npm",
+      "message":"chore: publish %s",
+      "publishConfig":"https://www.npmjs.com"
+    }
+  }
+}
