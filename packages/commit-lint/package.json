@@ -1,6 +1,6 @@
 {
   "name": "@immoben/commit-lint-demo",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "immoben test commitlint能力",
   "main": "index.js",
   "directories": {
