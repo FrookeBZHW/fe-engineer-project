@@ -1,3 +1,3 @@
 module.exports = {
-    extends: ['./packages/commit-lint/index.js']
+    extends: ['@immoben/commit-lint-demo']
 }
