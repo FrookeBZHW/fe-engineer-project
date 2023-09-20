@@ -14,5 +14,5 @@
   "scripts": {
     "test": "node ./__tests__/markdown-lint.test.js"
   },
-  "gitHead": "c63ab4c8078ac593fb7b4288afc663e98a1dd2ae"
+  "gitHead": "f0973c996b45c531345f5ca37201d2cae59374a2"
 }
