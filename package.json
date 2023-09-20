@@ -25,5 +25,9 @@
     "conventional-changelog-conventionalcommits": "^7.0.2",
     "husky": "^8.0.3",
     "lerna": "^7.2.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }

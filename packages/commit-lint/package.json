@@ -12,5 +12,8 @@
   ],
   "scripts": {
     "test": "node ./__tests__/commit-lint.test.js"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^7.0.2"
   }
 }

@@ -5,7 +5,7 @@
     "publish":{
       "npmClient":"npm",
       "message":"chore: publish %s",
-      "publishConfig":"https://www.npmjs.com"
+      "registry": "https://registry.npmjs.org"
     }
   }
 }
