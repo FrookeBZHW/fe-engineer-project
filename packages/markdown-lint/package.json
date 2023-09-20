@@ -1,5 +1,5 @@
 {
-  "name": "markdown-lint",
+  "name": "@immoben/markdown-lint-demo",
   "version": "0.0.2",
   "description": "> TODO: description",
   "homepage": "",
@@ -13,5 +13,6 @@
   ],
   "scripts": {
     "test": "node ./__tests__/markdown-lint.test.js"
-  }
+  },
+  "gitHead": "c63ab4c8078ac593fb7b4288afc663e98a1dd2ae"
 }
