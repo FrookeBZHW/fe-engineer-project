@@ -28,4 +28,4 @@ jobs:
               with:
                 BRANCH: gh-pages
                 FOLDER: docs/.vuepress/dist
-                ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # 提前在该仓库的secrets中配置好
+                token: ${{ secrets.ACCESS_TOKEN }} # 提前在该仓库的secrets中配置好
