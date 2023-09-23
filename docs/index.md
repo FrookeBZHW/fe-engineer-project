@@ -15,3 +15,6 @@
 - lint工具：`markdownlint`、`commitlint`、`stylelint`、`eslint`、`prettier`
 - Cli能力
 - 测试：`Jest、mocha`
+
+## Github Actions
+- push时触发Actions完成静态站点自动发布
