@@ -1,7 +1,7 @@
 {
   "name": "@immoben/markdown-lint-demo",
   "version": "0.0.5",
-  "description": "> TODO: description",
+  "description": "immoben test markdown 能力",
   "homepage": "",
   "main": "index.json",
   "directories": {
@@ -12,7 +12,6 @@
     "lib"
   ],
   "scripts": {
-    "test": "node ./__tests__/markdown-lint.test.js"
   },
   "gitHead": "f0973c996b45c531345f5ca37201d2cae59374a2"
 }
