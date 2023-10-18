@@ -1,6 +1,6 @@
 {
   "name": "@immoben/commit-lint-demo",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "immoben test commitlint能力",
   "main": "index.js",
   "directories": {
@@ -10,8 +10,7 @@
   "files": [
     "lib"
   ],
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^7.0.2"
   },

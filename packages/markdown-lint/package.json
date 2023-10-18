@@ -1,6 +1,6 @@
 {
   "name": "@immoben/markdown-lint-demo",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "immoben test markdown 能力",
   "homepage": "",
   "main": "index.json",
@@ -11,7 +11,6 @@
   "files": [
     "lib"
   ],
-  "scripts": {
-  },
+  "scripts": {},
   "gitHead": "f0973c996b45c531345f5ca37201d2cae59374a2"
 }
