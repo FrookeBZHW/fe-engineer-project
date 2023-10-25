@@ -1,8 +1,15 @@
+/*
+ * @Author: MoBenShiWu
+ * @Date: 2023-10-04 21:02:37
+ * @LastEditors: MoBenShiWu
+ * @LastEditTime: 2023-10-18 20:50:42
+ * @FilePath: /fe-engineer/lerna-demo/packages/stylelint-config/__tests__/rules-validate.test.js
+ */
 const assert = require('assert');
 const stylelint = require('stylelint');
 const path = require('path')
 
-console.log('用户包管理', process.env.npm_config_user_agent);
+console.log('用户包管理信息', process.env.npm_config_user_agent);
 
 describe('test/rules-validate.test.js', () => {
     it('Validate css', async () => {
@@ -16,7 +23,7 @@ describe('test/rules-validate.test.js', () => {
 
         console.log(result);
 
-        // defaultSeverity warning时errored为false
+        // defaultSeverity/*  */ warning时errored为false
         if (result?.errored) {
             // 如果有错 查看output中警告内容
             const filesResult = JSON.parse(result.output || '[]') || [];

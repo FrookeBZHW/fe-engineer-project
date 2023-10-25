@@ -1,7 +1,7 @@
 {
   "name": "@immoben/stylelint-config",
   "version": "0.0.6",
-  "description": "immoben test stylelint 能力",
+  "description": "immoben stylelint 能力",
   "homepage": "https://github.com/FrookeBZHW/fe-engineer-project#readme",
   "license": "ISC",
   "main": "index.js",
