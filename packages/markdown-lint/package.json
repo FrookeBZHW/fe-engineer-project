@@ -1,6 +1,6 @@
 {
   "name": "@immoben/markdown-lint-demo",
-  "version": "0.0.6",
+  "version": "0.0.7-alpha.0",
   "description": "immoben markdown 能力",
   "homepage": "",
   "main": "index.json",
