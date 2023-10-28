@@ -1,3 +1,7 @@
+# [](https://github.com/FrookeBZHW/fe-engineer-project/compare/v0.0.7-alpha.0...v) (2023-10-28)
+
+
+
 # [](https://github.com/FrookeBZHW/fe-engineer-project/compare/v0.0.6...v) (2023-10-18)
 
 
