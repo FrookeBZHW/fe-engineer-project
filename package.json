@@ -14,11 +14,11 @@
     "docs:build": "vuepress build docs",
     "deploy": "bash deploy.sh",
     "publish": "lerna publish",
-    "release": "pnpm run changelog",
-    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+    "version": "lerna version --conventional-commits"
   },
   "dependencies": {
     "@immoben/commit-lint-demo": "workspace:^",
+    "standard-version": "^9.5.0",
     "stylelint": "^15.10.3",
     "stylelint-config": "^0.1.1",
     "stylelint-scss": "^5.2.1",

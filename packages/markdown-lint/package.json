@@ -1,6 +1,6 @@
 {
   "name": "@immoben/markdown-lint-demo",
-  "version": "0.0.8-alpha.0",
+  "version": "0.0.9",
   "description": "immoben markdown 能力",
   "homepage": "",
   "main": "index.json",
@@ -11,6 +11,8 @@
   "files": [
     "lib"
   ],
-  "scripts": {},
-  "gitHead": "f0973c996b45c531345f5ca37201d2cae59374a2"
+  "gitHead": "f0973c996b45c531345f5ca37201d2cae59374a2",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
